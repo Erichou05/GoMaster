@@ -1,0 +1,22 @@
+{"playerList": [
+    {
+        "name": "player1",
+        "rating": 1200
+    },
+    {
+        "name": "player2",
+        "rating": 1200
+    },
+    {
+        "name": "1",
+        "rating": 1200
+    },
+    {
+        "name": "2",
+        "rating": 1250
+    },
+    {
+        "name": "3",
+        "rating": 1300
+    }
+]}

@@ -1,0 +1,34 @@
+{"gameHistory": [
+    {
+        "date": "2024-01-24",
+        "annotation": ["annotation"],
+        "blackRating": 1200,
+        "winner": "b",
+        "moves": [1010],
+        "blackPlayer": {
+            "name": "player1",
+            "rating": 1200
+        },
+        "whiteRating": 1200,
+        "whitePlayer": {
+            "name": "player2",
+            "rating": 1200
+        }
+    },
+    {
+        "date": "2024-01-26",
+        "annotation": [],
+        "blackRating": 1200,
+        "winner": "d",
+        "moves": [],
+        "blackPlayer": {
+            "name": "player1",
+            "rating": 1200
+        },
+        "whiteRating": 1200,
+        "whitePlayer": {
+            "name": "player2",
+            "rating": 1200
+        }
+    }
+]}
