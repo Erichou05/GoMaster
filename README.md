@@ -1,5 +1,7 @@
 # Go Master: Go Board and Game Log Application
 
+![Alt text](goboard.jpg)
+
 ## Overview
 The application proposed is a Go board and a game log where the game information and the player's data will be stored and analyzed. It will record game histories, provide an evaluation of the win rates, and generate an analysis of the player's performance. The application's goal is to become a one-stop solution for Go players to monitor their performance and study game histories. 
 
